@@ -236,7 +236,7 @@ if response==0:
     
 hToken=hNewToken
 dwLogonFlags=0x00000001
-lpApplicationName="C:\Windows\System32\calc.exe"
+lpApplicationName="C:\Windows\System32\cmd.exe"
 lpCommandLine=None
 dwCreationFlags=0x00000010
 lpEnvironment=None
